@@ -1,0 +1,3 @@
+BCnumber 0.5 2
+Wetdep 0.3 3
+IRI550 0 0.8
